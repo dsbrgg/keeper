@@ -4,7 +4,6 @@ import os, re
 
 class Globals :
 	def __init__(self, scrt) :
-		print(scrt)
 		self.bin = None
 		self.salt = scrt['salt']
 		self.key32 = scrt['key32']
