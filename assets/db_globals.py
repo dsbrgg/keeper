@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import os, re
-#/media/opuzzz/548A7EF38A7ED0CA/CODING/python/db/assets/data.txt
 
 class Globals :
 	def __init__(self, scrt) :
